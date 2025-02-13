@@ -1,14 +1,32 @@
 [
-    {
-       "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
-    },
-    {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+   {
+       "src": "./img/spreadsheets.png",
+       "title": "Spreadsheets Course",
+       "desc": "This course teaches how to effectively use spreadsheet software like Microsoft Excel and Google Sheets for data analysis, calculation, and visualization. It covers advanced functions, formulas, and automation tools. Software details: Microsoft Excel (paid license, with trial version available) and Google Sheets (free with a Google account).",
+       "cat": "Business Services"
+   },
+   {
+       "src": "./img/charts.png",
+       "title": "Charts and Graphs Course",
+       "desc": "A course focused on creating impactful charts and graphs using tools like Excel, Google Sheets, and specialized software like Tableau. You'll learn to represent data visually and make decisions based on visual analysis. Software details: Tableau (paid, with a free trial) and Excel/Sheets (Microsoft Excel and Google Sheets).",
+       "cat": "Business Services"
+   },
+   {
+       "src": "./img/website_hosting.png",
+       "title": "Website Hosting Course",
+       "desc": "This course covers the basics of website hosting, including domain registration, server setup, and deploying websites using platforms like Bluehost, GoDaddy, or AWS. Software details: Bluehost (paid, with a trial version), GoDaddy (paid, with promotional offers), and AWS (offers free tier).",
+       "cat": "Business Services"
+   },
+   {
+       "src": "./img/cloud_computing.png",
+       "title": "Cloud Computing Course",
+       "desc": "Learn cloud computing concepts, services, and tools like AWS, Google Cloud, and Microsoft Azure. This course covers cloud infrastructure, storage, and computing models. Software details: AWS, Google Cloud, and Azure (all offer free tiers and paid versions).",
+       "cat": "Business Services"
+   },
+   {
+       "src": "./img/smartphone_apps.png",
+       "title": "Smartphone Apps Development Course",
+       "desc": "A course focused on developing mobile applications for Android and iOS using tools like Android Studio and Xcode. You'll learn how to design, code, and test apps. Software details: Android Studio (free), Xcode (free for Mac users).",
+       "cat": "Business Services"
+   }
 ]
