@@ -1,12 +1,12 @@
 [
     {
-       "src": "./img/user.png",
+       "src": "./img/java.jpg",
        "title": "Java",
        "desc": "Java is a high-level, object-oriented programming language known for its portability, scalability, and security. It is commonly used for building web applications, mobile apps (especially Android), and large-scale enterprise systems. Its write once, run anywhere philosophy makes it versatile across platforms.",
        "cat": "Programming"
     },
     {
-        "src": "./img/user.png",
+        "src": "./img/mysql.png",
         "title": "Mysql",
         "desc": "MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) to manage and manipulate data. It is widely used for storing and retrieving data in applications, offering speed, reliability, and ease of use.",
         "cat": "BDD"

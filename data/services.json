@@ -12,19 +12,19 @@
        "cat": "Business Services"
    },
    {
-       "src": "./img/website_hosting.png",
+       "src": "./img/website_hosting.jpg",
        "title": "Website Hosting Course",
        "desc": "This course covers the basics of website hosting, including domain registration, server setup, and deploying websites using platforms like Bluehost, GoDaddy, or AWS. Software details: Bluehost (paid, with a trial version), GoDaddy (paid, with promotional offers), and AWS (offers free tier).",
        "cat": "Business Services"
    },
    {
-       "src": "./img/cloud_computing.png",
+       "src": "./img/cloud_computing.jpg",
        "title": "Cloud Computing Course",
        "desc": "Learn cloud computing concepts, services, and tools like AWS, Google Cloud, and Microsoft Azure. This course covers cloud infrastructure, storage, and computing models. Software details: AWS, Google Cloud, and Azure (all offer free tiers and paid versions).",
        "cat": "Business Services"
    },
    {
-       "src": "./img/smartphone_apps.png",
+       "src": "./img/smartphone_apps.jpg",
        "title": "Smartphone Apps Development Course",
        "desc": "A course focused on developing mobile applications for Android and iOS using tools like Android Studio and Xcode. You'll learn how to design, code, and test apps. Software details: Android Studio (free), Xcode (free for Mac users).",
        "cat": "Business Services"

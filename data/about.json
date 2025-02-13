@@ -1,7 +1,9 @@
 [
     {
        "src": "./img/user.png",
-       "title": "Miguel Angel Virgil"
+       "title": "Miguel Angel Virgil",
+       "desc": "Descripcion Curso",
+       "cat": "Great qualified"
     }
    
 ]
