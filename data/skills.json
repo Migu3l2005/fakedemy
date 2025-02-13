@@ -1,6 +1,6 @@
 [
     {
-       "src": "./img/java.jpg",
+       "src": "./img/java.png",
        "title": "Java",
        "desc": "Java is a high-level, object-oriented programming language known for its portability, scalability, and security. It is commonly used for building web applications, mobile apps (especially Android), and large-scale enterprise systems. Its write once, run anywhere philosophy makes it versatile across platforms.",
        "cat": "Programming"
